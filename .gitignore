@@ -1,0 +1,12 @@
+# Ignore system/editor files
+.vscode/
+*.exe
+*.o
+*.log
+
+# Ignore VS Code extensions
+.vscode/extensions/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
